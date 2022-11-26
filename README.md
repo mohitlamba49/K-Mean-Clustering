@@ -1,2 +1,2 @@
-# K-Mean-Clustering
-K-Mean Clustering using Juypter
+# KMeans-Clustering
+KMeans Clustering using Juypter
